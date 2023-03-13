@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+  }
+  .temps{
+    display: inline;
+    margin-right: 40%;
+  }
+  .cards {
+    display: inline-block;
+    padding-right: 50px;
+  }
+  
