@@ -1,12 +1,46 @@
 .App {
-    font-family: sans-serif;
-  }
-  .temps{
-    display: inline;
-    margin-right: 40%;
-  }
-  .cards {
-    display: inline-block;
-    padding-right: 50px;
-  }
-  
+  font-family: Arial, Helvetica;
+  padding-left: 20px;
+  padding-top: 20px;
+
+}
+.temps {
+  display: inline;
+}
+.min {
+  color: #2E4F4F;
+  padding-left:  20px;
+}
+.cards {
+  text-align: center;
+  display: inline-block;
+  padding: 40px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+.today {
+  border: 1px solid #ccc;
+  background-color: aliceblue;
+}
+.header{
+  text-align: center;
+}
+
+.select {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+  margin-left: 25px;
+  text-align: left;
+}
+
+.invisible{
+  visibility:hidden;
+}
